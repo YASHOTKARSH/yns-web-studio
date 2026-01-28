@@ -1,0 +1,11 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="120" fill="white"/>
+  
+  <!-- YNS Text -->
+  <text x="50" y="80" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#28a745">YNS</text>
+  
+  <!-- Web Studio Text -->
+  <text x="210" y="60" font-family="Arial, sans-serif" font-size="24" font-weight="normal" fill="#333">Web Studio</text>
+  <text x="210" y="85" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#666">Professional Websites</text>
+</svg>
